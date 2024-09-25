@@ -1,0 +1,17 @@
+/* src/components/Header.module.css */
+.header {
+    background-color: #2d3748; /* bg-gray-800 */
+    color: white;
+    padding: 1rem;
+  }
+  
+  .navLink {
+    margin-right: 1rem; /* space-x-4 */
+    text-decoration: none;
+    color: white;
+  }
+  
+  .navLink:hover {
+    text-decoration: underline;
+  }
+  
